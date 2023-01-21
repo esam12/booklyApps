@@ -1,5 +1,5 @@
-import 'package:flutter/animation.dart';
+import 'package:flutter/material.dart';
 
-class AppColor {
-  static final primaryColor = const Color(0xff100B20);
-}
+   const primaryColor = Color(0xff100B20);
+   const GtSectraFine = 'GT Sectra Fine';
+
